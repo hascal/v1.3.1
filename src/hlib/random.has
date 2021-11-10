@@ -1,0 +1,2 @@
+use d.random
+function RandomNumber(min:int,max:int) : int

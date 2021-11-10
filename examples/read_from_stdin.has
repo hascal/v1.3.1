@@ -1,0 +1,7 @@
+function main(){
+    print("Enter your name :")
+    var x : string
+    x = ReadStr()
+    print("Hi,",x)
+    return 0
+}
